@@ -1,0 +1,4 @@
+package ro.oks.repositories;
+
+public interface ElectionRepository {
+}

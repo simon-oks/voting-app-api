@@ -1,0 +1,4 @@
+package ro.oks.exceptions;
+
+public class FailedToSaveImageException {
+}

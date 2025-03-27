@@ -1,0 +1,4 @@
+package ro.oks.dtos;
+
+public class ElectionRequest {
+}
